@@ -31,4 +31,6 @@ This compact anticheat solution is designed to effectively protect your game fro
 ## **Advantages**
 This anticheat provides robust protection against script kiddies and stops 99% of exploiters, ensuring a fair gameplay experience for all.
 
+This anticheat runs on an actor meaning it would be impossible for exploiters to hook into anything in the script's environment, unless they use an exploit function called "run_on_actor". But that won't happen due to the lack of executors that support that function. (Yes Synapse Z has it but it's really shit and the executor is ULTRA DETECTED.)
+
 Enjoy a more secure game with this powerful tool!
