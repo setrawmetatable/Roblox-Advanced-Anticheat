@@ -1,10 +1,10 @@
 # Roblox-Advanced-Anticheat
 
-Hello my fellow devs.
+Hello.
 
 I would like to introduce to you....
 
-SQUEEKHUB ANTICHEAT!! or anti-executor and anti-coregui... but let's just call it an anticheat!! cause it is one!!
+SQUEEKHUB ANTICHEAT!! or anti-executor and anti-coregui... but let's just call it an anticheat. Cause it is one.
 
 This compact anticheat solution is designed to effectively protect your game from exploiters with minimal setup. Simply place the provided server script into ServerScriptService, and it will automatically load all necessary components.
 
