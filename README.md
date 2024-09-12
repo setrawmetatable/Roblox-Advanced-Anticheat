@@ -2,7 +2,7 @@
 
 Hello.
 
-Since hyperion has been living up to it's purpose and all executors are now confirmed detected, and with the really low chances of a synapse x type executor.
+Since hyperion has been living up to it's purpose and all executors are now confirmed detected, and with the really low chances of a synapse x type executor popping up in the future.
 
 I have decided to opensource my anticheat I have used in my games.
 
