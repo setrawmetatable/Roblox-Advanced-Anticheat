@@ -17,9 +17,9 @@ This compact anticheat solution is designed to effectively protect your game fro
 
 - Webhook Alerts: Sends notifications to your Discord server when:
 
-  -A player is banned or unbanned.
-  -A player is flagged.
-  -A banwave is initiated.
+  - A player is banned or unbanned.
+  - A player is flagged.
+  - A banwave is initiated.
 - Manual Banwave Control: Instead of automatically banning cheaters, the anticheat maintains a list of detected cheaters. You can review and ban everyone in the list by triggering a banwave from the admin panel.
 
 ## **Advantages**
