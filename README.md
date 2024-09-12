@@ -2,6 +2,12 @@
 
 Hello.
 
+Since hyperion has been living up to it's purpose and all executors are now confirmed detected, and with the really low chances of a synapse x type executor.
+
+I have decided to opensource my anticheat I have used in my games.
+
+Because hyperion will be doing it's job and my anticheat is not worth gatekeeping anymore.
+
 I would like to introduce to you....
 
 SQUEEKHUB ANTICHEAT!! or anti-executor and anti-coregui... but let's just call it an anticheat. Cause it is one.
